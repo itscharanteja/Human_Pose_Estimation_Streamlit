@@ -7,7 +7,6 @@ This project integrates human pose estimation using Streamlit as a web interface
 - **streamlit.py**: Main Streamlit app for user interaction and visualization.
 - **AlphaPose/**: Contains the AlphaPose framework for 2D human pose estimation.
 - **MotionBERT/**: Contains MotionBERT scripts and pretrained models for 3D pose estimation and biomechanics extraction.
-- **tempfiles/**: Temporary files and intermediate outputs.
 
 ## Features
 
