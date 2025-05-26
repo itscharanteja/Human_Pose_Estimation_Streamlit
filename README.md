@@ -38,5 +38,3 @@ This project integrates human pose estimation using Streamlit as a web interface
 - [MotionBERT](https://github.com/DeepMotionEditing/MotionBERT)
 
 ---
-
-Feel free to update this README with more details about your workflow, results, or instructions as needed.
